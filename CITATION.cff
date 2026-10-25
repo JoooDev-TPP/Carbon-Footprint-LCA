@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these results, please cite this repository and the sources it applies (IPCC AR5 WGIII Annex III; Our World in Data energy dataset; the 2023 grid factor notice)."
+title: "Lifecycle carbon footprint of electricity, applied to China's grid (Carbon-Footprint-LCA)"
+type: software
+authors:
+  - alias: JooooDev
+    website: "https://github.com/JoooDev-TPP"
+repository-code: "https://github.com/JoooDev-TPP/Carbon-Footprint-LCA"
+license: MIT
+# version: TODO
+# date-released: YYYY-MM-DD   # TODO
+keywords:
+  - life-cycle assessment
+  - grid emission factor
+  - renewable energy
+  - China
+references:
+  - type: report
+    title: "Annex III: Technology-specific cost and performance parameters"
+    authors:
+      - family-names: Schlömer
+        given-names: S.
+    year: 2014
+    collection-title: "Climate Change 2014: Mitigation of Climate Change. IPCC Fifth Assessment Report, Working Group III"
+  - type: data
+    title: "Our World in Data energy dataset"
+    authors:
+      - name: "Our World in Data"
+    url: "https://github.com/owid/energy-data"
+    license: CC-BY-4.0
+  - type: report
+    title: "关于发布2023年电力二氧化碳排放因子的公告"
+    authors:
+      - name: "生态环境部、国家统计局"
+    date-published: 2025-12-31
