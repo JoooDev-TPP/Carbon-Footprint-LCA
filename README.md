@@ -133,8 +133,8 @@ conclusions. All are fixed here, and each has a test that fails if it returns:
 
 ## Related repositories
 
-- [green-ai-ledger](https://github.com/Zhaohh0706/green-ai-ledger) — compute energy and carbon, with the grid factor pinned rather than guessed
-- [GBA-Air-Quality-Analysis](https://github.com/Zhaohh0706/GBA-Air-Quality-Analysis) — Greater Bay Area air quality 2015–2024 from CNEMC monitoring data
+- [green-ai-ledger](https://github.com/JoooDev-TPP/green-ai-ledger) — compute energy and carbon, with the grid factor pinned rather than guessed
+- [GBA-Air-Quality-Analysis](https://github.com/JoooDev-TPP/GBA-Air-Quality-Analysis) — Greater Bay Area air quality 2015–2024 from CNEMC monitoring data
 
 ## Licence
 
